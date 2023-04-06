@@ -22,7 +22,7 @@ app.get('/products', async (req, res) => {
       const product = await productManager.getProductById(id);
 
       if (!product) {
-        return console.error('Product not found' + error);
+        return console.log('Product not found');
       }
       else{
         res.json(product);

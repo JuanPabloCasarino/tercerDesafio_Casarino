@@ -85,14 +85,5 @@
         "thumbnail": "path/to/image10",
         "code": "ÑLK098",
         "stock": 15
-    },
-    {
-        "id": 11,
-        "title": "Pascualina",
-        "description": "Vegano",
-        "price": 25.99,
-        "thumbnail": "path/to/image11",
-        "code": "RTY567",
-        "stock": 10
     }
 ]
